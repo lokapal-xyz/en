@@ -28,5 +28,5 @@ For DAOs facing complex decisions, evolving their structure, or seeking outside 
 
 ---
 
-🔸For inquiries and collaborations, visit our [**Contact page**](/contact/). 
+🔸For inquiries and collaborations, visit our [**Contact page**](../contact/). 
 

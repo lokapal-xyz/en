@@ -9,7 +9,6 @@ pagination:
   pagerSize: 10
   path: page
 
-
 params:
   profileMode:
     enabled: true
@@ -23,7 +22,9 @@ params:
       - name: 🔹Lokapal Insights
         url: "insights"
       - name: 🔸Lokapal Action
-        url: "act"
+        url: "action"
+      - name: 🇪🇸 Change Language
+        url: "https://lokapal-xyz.github.io/es/"
 
   socialIcons: # optional
     - name: "linkedin"

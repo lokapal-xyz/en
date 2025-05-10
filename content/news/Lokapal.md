@@ -8,4 +8,4 @@ title: 'Lokapal | DAO Insights & Action'
 
 Visit our Main Hub:
 
-🔗 [**lokapal-xyz**](https://lokapal-xyz.github.io/)
+🔗 [**lokapal-xyz**](https://lokapal-xyz.github.io/en/)

@@ -4,7 +4,7 @@ draft: false
 title: 'DAO Spotlight (Lokapal Action)'
 ---
 
-Lokapal Action is live: real-world engagement with DAOs through literacy, analysis, and collaboration. Spotlighting what works—and what needs work.
+Lokapal Action is live: real-world engagement with DAOs through curated updates, analysis, and collaboration. Spotlighting what works—and what needs work.
 
 Explore the latest:
 
