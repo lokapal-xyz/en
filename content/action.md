@@ -4,23 +4,23 @@ draft: false
 title: 'Lokapal Action'
 ---
 
-This is the practical arm of the Lokapal project — a place where education, research, and philosophy translate into meaningful contributions to DAO ecosystems. Whether through communication, analysis, partnerships, or direct support, Lokapal Action is how we bring these ideas to life.
-
-## 🔹DAO Literacy  
-**Bridging DAO concepts to wider audiences.**  
-DAO Literacy supports clear, accessible communication for both Web3-native and non-Web3 audiences. It builds on our educational work in [**HowToDAO**](https://lokapal-xyz.github.io/education/), transforming complex governance ideas into simple, engaging narratives. Through articles, threads, visuals, and talks, we aim to strengthen understanding across the space and beyond.
-
-🔸 Explore [**DAO Literacy**](https://lokapal-xyz.github.io/action/literacy/)
+This is the practical arm of Lokapal — a place where education, research, and philosophy translate into meaningful contributions to DAO ecosystems. Whether through communication, analysis, partnerships, or direct support, Lokapal Action is how we bring these ideas to life.
 
 ## 🔹DAO Spotlight  
 **Independent deep dives into DAOs and decentralized governance.**  
-DAO Spotlight is where research meets curiosity. This initiative features detailed explorations of active DAOs and governance phenomena — looking at what works, what struggles, and why. These Spotlights may evolve into public conversations, roundtables, or commissioned analysis, but always retain a spirit of constructive inquiry. It's the grounded application of both [**DAO Horizons**](https://lokapal-xyz.github.io/research/) and [**Conciliatorics**](https://lokapal-xyz.github.io/foundations/).
+DAO Spotlight is where research meets implementation. This initiative features detailed explorations of active DAOs and governance phenomena — looking at what works, what struggles, and why. These Spotlights may evolve into public conversations, roundtables, or commissioned analysis, but always retain a spirit of constructive inquiry.
 
 🔸 Explore [**DAO Spotlight**](https://lokapal-xyz.github.io/action/dao-spotlight/)
 
+## 🔹DAO Digest  
+**Curated updates on decentralized governance and DAO developments.**  
+DAO Digest tracks the pulse of DAO ecosystems through a periodic selection of the most relevant news, proposals, and shifts in decentralized governance. Designed for informed readers and busy builders, each edition offers context, clarity, and signal — not noise. The Digest helps contributors, researchers, and protocols stay aligned with the broader DAO landscape.
+
+🔸 Explore [**DAO Digest**](https://lokapal-xyz.github.io/action/dao-digest/)
+
 ## 🔹DAO Partnerships  
 **Special collaborations with DAOs and protocols.**  
-Lokapal is open to forming long-term, mutual relationships with aligned organizations — DAOs and beyond. These partnerships may begin with informal collaboration and grow into ongoing alliances. Together, we can strengthen education, governance models, or collective exploration of new DAO paths. These are not client relationships, but co-creative ones.
+Lokapal is open to forming long-term, mutual relationships with aligned organizations — DAOs and beyond. These partnerships may begin with informal collaboration and grow into ongoing alliances. Together, we can strengthen education, governance models, or collective exploration of new DAO paths.
 
 ## 🔹DAO Advisory  
 **Private, focused consulting for DAOs.**  
