@@ -10,13 +10,13 @@ This is the practical arm of Lokapal — a place where education, research, and 
 **Independent deep dives into DAOs and decentralized governance.**  
 DAO Spotlight is where research meets implementation. This initiative features detailed explorations of active DAOs and governance phenomena — looking at what works, what struggles, and why. These Spotlights may evolve into public conversations, roundtables, or commissioned analysis, but always retain a spirit of constructive inquiry.
 
-🔸 Explore [**DAO Spotlight**](https://lokapal-xyz.github.io/action/dao-spotlight/)
+🔸Explore [**DAO Spotlight**](https://lokapal-xyz.github.io/action/dao-spotlight/)
 
 ## 🔹DAO Digest  
 **Curated updates on decentralized governance and DAO developments.**  
-DAO Digest tracks the pulse of DAO ecosystems through a periodic selection of the most relevant news, proposals, and shifts in decentralized governance. Designed for informed readers and busy builders, each edition offers context, clarity, and signal — not noise. The Digest helps contributors, researchers, and protocols stay aligned with the broader DAO landscape.
+DAO Digest tracks the pulse of DAO ecosystems through a periodic selection of the most relevant news, proposals, and shifts in decentralized governance. Designed for informed readers and busy builders, each edition offers context, clarity, and purpose. The Digest helps contributors, researchers, and protocols stay aligned with the broader DAO landscape.
 
-🔸 Explore [**DAO Digest**](https://lokapal-xyz.github.io/action/dao-digest/)
+🔸Explore [**DAO Digest**](https://lokapal-xyz.github.io/action/dao-digest/)
 
 ## 🔹DAO Partnerships  
 **Special collaborations with DAOs and protocols.**  

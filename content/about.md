@@ -21,7 +21,7 @@ To meet that challenge, Lokapal bridges theory and practice through two pillars:
   A practical, open guide to understanding DAOs — designed for both newcomers and experienced builders.  
 
 🔸 **Lokapal Research: DAO Horizons**  
-  Explorations, case studies, and original frameworks to understand DAO systems and governance patterns.  
+  Analytical explorations and innovation frameworks to understand DAO systems and governance patterns.  
 
 🔸 **Lokapal Foundations: Conciliatorics**  
   The philosophical root of the project — reconciling decentralization with broader systemic thinking.
@@ -40,7 +40,7 @@ To meet that challenge, Lokapal bridges theory and practice through two pillars:
   Curated updates from across the DAO ecosystem — concise, relevant, and designed for those who want to stay informed.  
 
 🔸 **DAO Partnerships**  
-  Long-term collaborations with protocols and communities to support their growth and clarity.  
+  Long-term collaborations with protocols and communities to support their growth and engagement.  
 
 🔸 **DAO Advisory**  
   Focused, event-based or ongoing consulting — for DAOs navigating complexity, conflict, or growth.
