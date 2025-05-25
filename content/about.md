@@ -4,7 +4,7 @@ draft: false
 title: 'About Lokapal'
 ---
 
-**Lokapal is a research-led initiative for DAO design, understanding, and impact.**
+**Lokapal is a content platform for DAO design, understanding, and impact.**
 
 We believe that decentralization is not just a tool — it's a systemic necessity. Lokapal approaches DAOs as a transformative organizational model, one that requires not only smart tools, but smart thinking.
 
@@ -34,7 +34,7 @@ To meet that challenge, Lokapal bridges theory and practice through two pillars:
 [**Lokapal Action**](https://lokapal-xyz.github.io/en/action/) is the application of our insights. This is where research, education, and philosophy become real-world contributions to DAO ecosystems. It unfolds through four concrete modes of engagement:
 
 🔸 **DAO Spotlight**  
-  Deep dives into specific DAOs — part research, part reflection, part conversation starter.  
+  Deep dives into specific DAOs — building an open repository of case studies.  
 
 🔸 **DAO Digest**  
   Curated updates from across the DAO ecosystem — concise, relevant, and designed for those who want to stay informed.  
